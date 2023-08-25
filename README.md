@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-[Kap](Kapture 2023-08-24 at 21.13.03.gif)
+[Kap](web102_prework/Kapture 2023-08-24 at 21.13.03.gif)
 
 ## Notes
 
